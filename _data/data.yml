@@ -51,7 +51,7 @@ career-profile:
     - degree: Ph.D. in Computer Science
       university: University of California, Santa Barbara
       time: 2020 - 
-      details:
+      details: |
       
     - degree: M.S. in Biostatistics
       university: Harvard University
@@ -60,7 +60,7 @@ career-profile:
     - degree: B.S. in Statistics
       university: The University of Hong Kong
       time: 2010 - 2014
-      details:
+      details: |
       
 experiences:
     - role: Senior Data Scientist

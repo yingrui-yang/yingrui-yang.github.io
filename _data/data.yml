@@ -82,6 +82,13 @@ experiences:
       - Proposed a hierarchical ranking model combining catboost and wide & deep neural network for use in matching and personalization.
       - Built an ETL pipeline that intake front-end business and back-end search logs (1M queries per day) using Spark. 
 
+projects:
+    title: 
+    intro:  
+    assignments:
+      - title:  
+        link:  
+        tagline: 
 
    
 publications:
@@ -128,6 +135,13 @@ publications:
         authors: Fung, Wing & Yu, Kexin & Yang, Yingrui & Zhou, Ji-Yuan. 
         conference: Statistical Methods in Medical Research. 27.10.1177/0962280216661876.   
        
+skills:
+    title: 
+
+    toolset:
+      - name:  
+        level:  
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

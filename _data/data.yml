@@ -39,20 +39,17 @@ sidebar:
       - item: Skating
         link:
 
-
 career-profile:
-    title: Career Profile
+    title: Summary
     summary: |
       I am Ph.D. candidate in Computer Science at University of California, Santa Barbara, adviced by Prof. Tao Yang and Prof. Xifeng Yan. I am also a senior data scientist working at Ancestry.com.
       I have seven years of experience in the field of machine learning in academia and industry with hands-on experience in both product and marketing data science. 
       My current interests include data-driven modeling, ad-hoc information retrieval, and natural language processing. 
-      
 education:
     - degree: Ph.D. in Computer Science
       university: University of California, Santa Barbara
       time: 2020 - 
-      details: |
-      
+      details:
     - degree: M.S. in Biostatistics
       university: Harvard University
       time: 2015 - 2017
@@ -60,8 +57,7 @@ education:
     - degree: B.S. in Statistics
       university: The University of Hong Kong
       time: 2010 - 2014
-      details: |
-      
+      details: 
 experiences:
     - role: Senior Data Scientist
       time: 2019 - 
@@ -81,7 +77,6 @@ experiences:
       - Developed a customized ranking algorithm to assemble ranked lists from different models. Provisional patents filed and first-authorship papers published in KDD’19 and SIGIR’19. 
       - Proposed a hierarchical ranking model combining catboost and wide & deep neural network for use in matching and personalization.
       - Built an ETL pipeline that intake front-end business and back-end search logs (1M queries per day) using Spark. 
-
 projects:
     title: 
     intro:  
@@ -89,10 +84,9 @@ projects:
       - title:  
         link:  
         tagline: 
-
    
 publications:
-    title: Publications and Patents
+    title: Publications 
     intro: 
     papers:
       - title: "Compact Token Representations with Contextual Quantization for Efficient Document Re-ranking."

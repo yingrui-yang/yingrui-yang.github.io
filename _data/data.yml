@@ -63,81 +63,71 @@ career-profile:
       details:
       
 experiences:
-    - role: 
-      time: 
-      company: 
-      details:  
+    - role: Senior Data Scientist
+      time: 2019 - 
+      company: Ancestry.com
+      details:  |
+      - Led the natural language understanding effort to capture and model users’ intention through search queries. Techniques used: neural language models such as BERT and ELMo in Tensorflow and Keras.
+      - Led the development of ranking models to improve relevance on search.ancestry.com. 
+      - Developed aspect based sentiment analysis (ABSA) models to understand user reviews.
+      - Developed image + text model to understand page layout of pages in historical collections.
    
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    - role: Data Scientist
+      time: 2017 - 2019
+      company: Ancestry.com
+      details:  |
+      - multiple product and marketing teams for targeting purposes. Techniques used: k-means, T-SNE and factor analysis.
+      - Built 10+ gradient tree-based models to rank search results for different user segments and markets (95% coverage), which showed significant improvement in customer search success through A/B test.
+      - Developed a customized ranking algorithm to assemble ranked lists from different models. Provisional patents filed and first-authorship papers published in KDD’19 and SIGIR’19. 
+      - Proposed a hierarchical ranking model combining catboost and wide & deep neural network for use in matching and personalization.
+      - Built an ETL pipeline that intake front-end business and back-end search logs (1M queries per day) using Spark. 
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+   
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    title: Publications and Patents
+    intro: 
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Compact Token Representations with Contextual Quantization for Efficient Document Re-ranking."
+        link: https://aclanthology.org/2022.acl-long.51/
+        authors: Yang, Yingrui & Qiao, Yifan & Yang, Tao.
+        conference: ACL 2022
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Composite Re-Ranking for Efficient Document Search with BERT."
+        link: "https://dl.acm.org/doi/10.1145/3488560.3498495"
+        authors: Yang, Yingrui & Qiao, Yifan & Shao, Jinjin & Yan, Xifeng & Yang, Tao. 
+        conference: WSDM 2022
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - title: "A Case Study of Multi-class Classification with Diversified Precision Recall Requirements for Query Disambiguation."
+        link: https://dl.acm.org/doi/10.1145/3397271.3401315
+        authors: Yang, Yingrui & Miller, Christopher & Jiang, Peng & Moghtaderi, Azadeh. 
+        conference: SIGIR 2020
+        
+      - title: "Semiparametric Methods for Exposure Misclassification in Propensity Score-Based Time-to-Event Data Analysis."
+        link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8311974/
+        authors: Yang, Yingrui & Wang, Molin.
+        conference: Statistical Methods in Medical Research. 30 (5), 1347-1357.
+       
+      - title: "Ranking in Genealogy: Search Results Fusion at Ancestry."
+        link: https://dl.acm.org/doi/10.1145/3292500.3330772
+        authors: Jiang, Peng & Yang, Yingrui (equal contribution) & Bierner, Gann & Li, Fengjie & Wang, Ruhan & Moghtaderi, Azadeh. 
+        conference: KDD 2019
+      
+      - title: "Family History Discovery through Search at Ancestry."
+        link: https://dl.acm.org/doi/10.1145/3331184.3331430
+        authors: Jiang, Peng & Yang, Yingrui (equal contribution) & Bierner, Gann & Li, Fengjie & Wang, Ruhan & Moghtaderi, Azadeh. 
+        conference: SIGIR 2019
+        
+      - title: "Efficient vaccination strategies for epidemic control using network information."
+        link: https://pubmed.ncbi.nlm.nih.gov/30878314/
+        authors: Yang, Yingrui & McKhann, Ashley & Chen, Sixing & Harling, Guy & Onnela, Jukka-Pekka. 
+        conference: Epidemics. 27.10.1016/j.epidem.2019.03.002.
+       
+      - title: "Efficient Monte Carlo evaluation of resampling-based hypothesis tests with applications to genetic epidemiology."
+        link: https://pubmed.ncbi.nlm.nih.gov/27507290/
+        authors: Fung, Wing & Yu, Kexin & Yang, Yingrui & Zhou, Ji-Yuan. 
+        conference: Statistical Methods in Medical Research. 27.10.1177/0962280216661876.   
+       
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

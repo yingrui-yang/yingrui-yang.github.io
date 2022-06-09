@@ -83,42 +83,42 @@ publications:
     title: Publications
     intro: 
     papers:
-      - title: "Compact Token Representations with Contextual Quantization for Efficient Document Re-ranking."
+      - title: "Compact Token Representations with Contextual Quantization for Efficient Document Re-ranking. (2022)"
         link: https://aclanthology.org/2022.acl-long.51/
         authors: Yang, Yingrui & Qiao, Yifan & Yang, Tao.
         conference: ACL 2022
         
-      - title: "Composite Re-Ranking for Efficient Document Search with BERT."
+      - title: "Composite Re-Ranking for Efficient Document Search with BERT. (2022)"
         link: https://dl.acm.org/doi/10.1145/3488560.3498495
         authors: Yang, Yingrui & Qiao, Yifan & Shao, Jinjin & Yan, Xifeng & Yang, Tao. 
         conference: WSDM 2022
 
-      - title: "A Case Study of Multi-class Classification with Diversified Precision Recall Requirements for Query Disambiguation."
+      - title: "A Case Study of Multi-class Classification with Diversified Precision Recall Requirements for Query Disambiguation. (2020)"
         link: https://dl.acm.org/doi/10.1145/3397271.3401315
         authors: Yang, Yingrui & Miller, Christopher & Jiang, Peng & Moghtaderi, Azadeh. 
         conference: SIGIR 2020
         
-      - title: "Semiparametric Methods for Exposure Misclassification in Propensity Score-Based Time-to-Event Data Analysis."
+      - title: "Semiparametric Methods for Exposure Misclassification in Propensity Score-Based Time-to-Event Data Analysis. (2019)"
         link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8311974/
         authors: Yang, Yingrui & Wang, Molin.
         conference: Statistical Methods in Medical Research. 30 (5), 1347-1357.
        
-      - title: "Ranking in Genealogy: Search Results Fusion at Ancestry."
+      - title: "Ranking in Genealogy: Search Results Fusion at Ancestry. (2019)"
         link: https://dl.acm.org/doi/10.1145/3292500.3330772
         authors: Jiang, Peng & Yang, Yingrui (equal contribution) & Bierner, Gann & Li, Fengjie & Wang, Ruhan & Moghtaderi, Azadeh. 
         conference: KDD 2019
       
-      - title: "Family History Discovery through Search at Ancestry."
+      - title: "Family History Discovery through Search at Ancestry. (2019)"
         link: https://dl.acm.org/doi/10.1145/3331184.3331430
         authors: Jiang, Peng & Yang, Yingrui (equal contribution) & Bierner, Gann & Li, Fengjie & Wang, Ruhan & Moghtaderi, Azadeh. 
         conference: SIGIR 2019
         
-      - title: "Efficient vaccination strategies for epidemic control using network information."
+      - title: "Efficient vaccination strategies for epidemic control using network information. (2019)"
         link: https://pubmed.ncbi.nlm.nih.gov/30878314/
         authors: Yang, Yingrui & McKhann, Ashley & Chen, Sixing & Harling, Guy & Onnela, Jukka-Pekka. 
         conference: Epidemics. 27.10.1016/j.epidem.2019.03.002.
        
-      - title: "Efficient Monte Carlo evaluation of resampling-based hypothesis tests with applications to genetic epidemiology."
+      - title: "Efficient Monte Carlo evaluation of resampling-based hypothesis tests with applications to genetic epidemiology. (2016)"
         link: https://pubmed.ncbi.nlm.nih.gov/27507290/
         authors: Fung, Wing & Yu, Kexin & Yang, Yingrui & Zhou, Ji-Yuan. 
         conference: Statistical Methods in Medical Research. 27.10.1177/0962280216661876.   

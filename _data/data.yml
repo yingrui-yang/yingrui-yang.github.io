@@ -59,21 +59,15 @@ education:
       time: 2010 - 2014
       details: 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+    - role: Senior Data Scientist
+      time: 2019 - 
+      company: Ancestry.com
+      details:  |
+          - Led the natural language understanding effort to capture and model users’ intention through search queries. Techniques used: neural language models such as BERT and ELMo in Tensorflow and Keras.
+          - Led the development of ranking models to improve relevance on search.ancestry.com. 
+          - Developed aspect based sentiment analysis (ABSA) models to understand user reviews.
+          - Developed image + text model to understand page layout of pages in historical collections.
+
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London

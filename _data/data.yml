@@ -68,7 +68,7 @@ experiences:
           - Developed aspect based sentiment analysis (ABSA) models to understand user reviews.
           - Developed image + text model to understand page layout of pages in historical collections.
 
-     - role: Data Scientist
+    - role: Data Scientist
       time: 2017 - 2019
       company: Ancestry.com
       details:  |

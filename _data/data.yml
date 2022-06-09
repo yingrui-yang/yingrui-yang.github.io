@@ -81,15 +81,13 @@ experiences:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    intro: 
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Compact Token Representations with Contextual Quantization for Efficient Document Re-ranking."
+        link: https://aclanthology.org/2022.acl-long.51/
+        authors: Yang, Yingrui & Qiao, Yifan & Yang, Tao.
+        conference: ACL 2022
+
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"

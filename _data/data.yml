@@ -123,27 +123,7 @@ publications:
         authors: Fung, Wing & Yu, Kexin & Yang, Yingrui & Zhou, Ji-Yuan. 
         conference: Statistical Methods in Medical Research. 27.10.1177/0962280216661876.   
 
-skills:
-    title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

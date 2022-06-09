@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -26,7 +26,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: #http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: English
@@ -40,102 +40,145 @@ sidebar:
         link:
 
 career-profile:
-    title: Summary
+    title: Career Profile
     summary: |
-      I am Ph.D. candidate in Computer Science at University of California, Santa Barbara, adviced by Prof. Tao Yang and Prof. Xifeng Yan. I am also a senior data scientist working at Ancestry.com.
-      I have seven years of experience in the field of machine learning in academia and industry with hands-on experience in both product and marketing data science. 
-      My current interests include data-driven modeling, ad-hoc information retrieval, and natural language processing. 
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 education:
-    - degree: Ph.D. in Computer Science
-      university: University of California, Santa Barbara
-      time: 2020 - 
-      details:
-    - degree: M.S. in Biostatistics
-      university: Harvard University
-      time: 2015 - 2017
-      details: 
-    - degree: B.S. in Statistics
-      university: The University of Hong Kong
-      time: 2010 - 2014
-      details: 
+    - degree: MSc in Computer Science
+      university: University of London
+      time: 2011 - 2012
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
+      time: 2007 - 2011
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
 experiences:
-    - role: Senior Data Scientist
-      time: 2019 - 
-      company: Ancestry.com
-      details:  |
-      - Led the natural language understanding effort to capture and model users’ intention through search queries. Techniques used: neural language models such as BERT and ELMo in Tensorflow and Keras.
-      - Led the development of ranking models to improve relevance on search.ancestry.com. 
-      - Developed aspect based sentiment analysis (ABSA) models to understand user reviews.
-      - Developed image + text model to understand page layout of pages in historical collections.
-   
-    - role: Data Scientist
-      time: 2017 - 2019
-      company: Ancestry.com
-      details:  |
-      - multiple product and marketing teams for targeting purposes. Techniques used: k-means, T-SNE and factor analysis.
-      - Built 10+ gradient tree-based models to rank search results for different user segments and markets (95% coverage), which showed significant improvement in customer search success through A/B test.
-      - Developed a customized ranking algorithm to assemble ranked lists from different models. Provisional patents filed and first-authorship papers published in KDD’19 and SIGIR’19. 
-      - Proposed a hierarchical ranking model combining catboost and wide & deep neural network for use in matching and personalization.
-      - Built an ETL pipeline that intake front-end business and back-end search logs (1M queries per day) using Spark. 
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
+    - role: Senior Software Engineer
+      time: 2014 - 2015
+      company: Google, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
 projects:
-    title: 
-    intro:  
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title:  
-        link:  
-        tagline: 
-   
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
 publications:
-    title: Publications 
-    intro: 
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
     papers:
-      - title: "Compact Token Representations with Contextual Quantization for Efficient Document Re-ranking."
-        link: https://aclanthology.org/2022.acl-long.51/
-        authors: Yang, Yingrui & Qiao, Yifan & Yang, Tao.
-        conference: ACL 2022
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
 
-      - title: "Composite Re-Ranking for Efficient Document Search with BERT."
-        link: "https://dl.acm.org/doi/10.1145/3488560.3498495"
-        authors: Yang, Yingrui & Qiao, Yifan & Shao, Jinjin & Yan, Xifeng & Yang, Tao. 
-        conference: WSDM 2022
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: "A Case Study of Multi-class Classification with Diversified Precision Recall Requirements for Query Disambiguation."
-        link: https://dl.acm.org/doi/10.1145/3397271.3401315
-        authors: Yang, Yingrui & Miller, Christopher & Jiang, Peng & Moghtaderi, Azadeh. 
-        conference: SIGIR 2020
-        
-      - title: "Semiparametric Methods for Exposure Misclassification in Propensity Score-Based Time-to-Event Data Analysis."
-        link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8311974/
-        authors: Yang, Yingrui & Wang, Molin.
-        conference: Statistical Methods in Medical Research. 30 (5), 1347-1357.
-       
-      - title: "Ranking in Genealogy: Search Results Fusion at Ancestry."
-        link: https://dl.acm.org/doi/10.1145/3292500.3330772
-        authors: Jiang, Peng & Yang, Yingrui (equal contribution) & Bierner, Gann & Li, Fengjie & Wang, Ruhan & Moghtaderi, Azadeh. 
-        conference: KDD 2019
-      
-      - title: "Family History Discovery through Search at Ancestry."
-        link: https://dl.acm.org/doi/10.1145/3331184.3331430
-        authors: Jiang, Peng & Yang, Yingrui (equal contribution) & Bierner, Gann & Li, Fengjie & Wang, Ruhan & Moghtaderi, Azadeh. 
-        conference: SIGIR 2019
-        
-      - title: "Efficient vaccination strategies for epidemic control using network information."
-        link: https://pubmed.ncbi.nlm.nih.gov/30878314/
-        authors: Yang, Yingrui & McKhann, Ashley & Chen, Sixing & Harling, Guy & Onnela, Jukka-Pekka. 
-        conference: Epidemics. 27.10.1016/j.epidem.2019.03.002.
-       
-      - title: "Efficient Monte Carlo evaluation of resampling-based hypothesis tests with applications to genetic epidemiology."
-        link: https://pubmed.ncbi.nlm.nih.gov/27507290/
-        authors: Fung, Wing & Yu, Kexin & Yang, Yingrui & Zhou, Ji-Yuan. 
-        conference: Statistical Methods in Medical Research. 27.10.1177/0962280216661876.   
-       
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
 skills:
-    title: 
+    title: Skills &amp; Proficiency
 
     toolset:
-      - name:  
-        level:  
+      - name: Python & Django
+        level: 98%
 
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

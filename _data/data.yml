@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -48,7 +48,7 @@ career-profile:
 education:
     - degree: Ph.D. in Computer Science
       university: University of California, Santa Barbara
-      time: 2020 - 
+      time: 2020 - Present
       details:
     - degree: M.S. in Biostatistics
       university: Harvard University
@@ -60,7 +60,7 @@ education:
       details: 
 experiences:
     - role: Senior Data Scientist
-      time: 2019 - 
+      time: 2019 - Present
       company: Ancestry.com
       details:  |
           - Led the natural language understanding effort to capture and model users’ intention through search queries. Techniques used: neural language models such as BERT and ELMo in Tensorflow and Keras.
@@ -68,28 +68,16 @@ experiences:
           - Developed aspect based sentiment analysis (ABSA) models to understand user reviews.
           - Developed image + text model to understand page layout of pages in historical collections.
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+     - role: Data Scientist
+      time: 2017 - 2019
+      company: Ancestry.com
+      details:  |
+          - multiple product and marketing teams for targeting purposes. Techniques used: k-means, T-SNE and factor analysis.
+          - Built 10+ gradient tree-based models to rank search results for different user segments and markets (95% coverage), which showed significant improvement in customer search success through A/B test.
+          - Developed a customized ranking algorithm to assemble ranked lists from different models. Provisional patents filed and first-authorship papers published in KDD’19 and SIGIR’19. 
+          - Proposed a hierarchical ranking model combining catboost and wide & deep neural network for use in matching and personalization.
+          - Built an ETL pipeline that intake front-end business and back-end search logs (1M queries per day) using Spark. 
+
 projects:
     title: Projects
     intro: >
